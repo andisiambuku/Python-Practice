@@ -11,6 +11,12 @@ length = 155.6
 i= 7
 j= 9
 k= complex(i,j)
-print(k)
 
 #area of a triangle with use input
+print('Enter the length of the triangle :')
+base = float(input())
+print('Enter the length of the height :')
+height = float(input())
+
+area =0.5 *base * height
+print('\nThe area is :',area)
