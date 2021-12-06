@@ -20,3 +20,11 @@ height = float(input())
 
 area =0.5 *base * height
 print('\nThe area is :',area)
+
+#perimeter of a rectangle
+print('Enter the length of the rectangle :')
+length =float(input())
+print('Enter the width of the rectangle :')
+width =float(input())
+perimeter = 2 * (length+width)
+print('\nThe perimeter is :',perimeter)
