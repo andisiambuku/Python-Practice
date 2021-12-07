@@ -25,5 +25,4 @@ first_three_foods = food_stuff_list[:3]
 last_three_foods = food_stuff_list [-3:]
 print(first_three_foods)
 print(last_three_foods)
-del food_stuff_list
-print(food_stuff_list)
+del food_stuff_tp
