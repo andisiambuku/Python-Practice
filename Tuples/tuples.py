@@ -13,6 +13,7 @@ print(siblings)
 parents = ['Nancy', 'John']
 family_members= parents + siblings
 print(tuple(family_members))
+del family_members
 
 fruits = ('mangoes','oranges','bananas','watermelon')
 vegetables = ('beetroot','carrots','cucumber','onions')
