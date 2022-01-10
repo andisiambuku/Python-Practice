@@ -6,4 +6,5 @@ names = ['Finland', 'Sweden', 'Norway','Denmark','Iceland', 'Estonia','Russia']
 fin,sw,nor,den,ice, *others = names
 nordic_countries = fin,sw,nor,den,ice
 print(nordic_countries)
+
 # print(fin,sw,nor,den,ice, others)
